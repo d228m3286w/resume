@@ -1,0 +1,74 @@
+#name {
+ 
+    text-align: right;
+}
+ul,
+ol {
+	list-style: none;
+
+}
+.header li {
+    list-style: none;
+    text-align: right;
+    
+ }
+.headlinesh2 {
+    border: solid;
+    border-color: #884411;  
+    background-color: #668284;
+    padding: 5px;
+    font-family: Garamond, serif;
+    text-align: center;
+    border-width: thin;
+    
+}
+ 
+.education  {
+    width: 46%;
+	float: left;	
+	
+}
+.intent{
+    display: inline-block;
+    width: 51%;
+
+}
+
+.headlinesh3 {
+    border: solid;
+    border-width: thin;  
+    background-color: #124949;
+    color: gray;
+    display: inline-block;
+    padding: 3px;
+    width: 100%;
+    text-align: center;
+    border: solid;
+    border-color: gray;
+    
+}
+
+.skills li {
+    
+    display: inline-block;
+    
+    
+	}
+
+#references {
+    border: solid;
+    background-color: #968284;
+    display: inline-block;
+    padding: 5px;
+    border-color: green;
+   
+}
+.references {
+    text-align: center;
+	
+
+}
+
+#footer {
+	
+}
